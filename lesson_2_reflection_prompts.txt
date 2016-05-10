@@ -13,3 +13,7 @@ Branches help when you need different versions of the code.
 
 How do the diagrams help you visualize the branch structure?
 It helps me see the structure on a screen other than in my head.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+All commits merges together.
