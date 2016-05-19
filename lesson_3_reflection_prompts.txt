@@ -3,3 +3,6 @@ When I need to commit my work from the portable device.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Some people could work on the same text simultaneously from different devices.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks on GitHub instead of clones, clones to copy on local device from another local device or GitHub and branches are exist inside a repository.
